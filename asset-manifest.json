@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/spaceX/static/css/main.366daf9f.chunk.css",
+    "main.js": "/spaceX/static/js/main.93de6717.chunk.js",
+    "main.js.map": "/spaceX/static/js/main.93de6717.chunk.js.map",
+    "runtime-main.js": "/spaceX/static/js/runtime-main.bf6e654a.js",
+    "runtime-main.js.map": "/spaceX/static/js/runtime-main.bf6e654a.js.map",
+    "static/js/2.1c4f019d.chunk.js": "/spaceX/static/js/2.1c4f019d.chunk.js",
+    "static/js/2.1c4f019d.chunk.js.map": "/spaceX/static/js/2.1c4f019d.chunk.js.map",
+    "index.html": "/spaceX/index.html",
+    "precache-manifest.e45cc4c1b7898a14418e1e24c74cd4c6.js": "/spaceX/precache-manifest.e45cc4c1b7898a14418e1e24c74cd4c6.js",
+    "service-worker.js": "/spaceX/service-worker.js",
+    "static/css/main.366daf9f.chunk.css.map": "/spaceX/static/css/main.366daf9f.chunk.css.map",
+    "static/js/2.1c4f019d.chunk.js.LICENSE.txt": "/spaceX/static/js/2.1c4f019d.chunk.js.LICENSE.txt",
+    "static/media/astronaut.png": "/spaceX/static/media/astronaut.2f1befb2.png",
+    "static/media/bus.png": "/spaceX/static/media/bus.07bbe940.png",
+    "static/media/engines.png": "/spaceX/static/media/engines.0c04533a.png",
+    "static/media/rocket1.png": "/spaceX/static/media/rocket1.01fea637.png",
+    "static/media/rocket2.png": "/spaceX/static/media/rocket2.48d285a2.png",
+    "static/media/rocket3.png": "/spaceX/static/media/rocket3.a1704019.png",
+    "static/media/smoke.png": "/spaceX/static/media/smoke.0960bb80.png",
+    "static/media/App.css": "/spaceX/static/media/sunrise.4a7f1dd2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf6e654a.js",
+    "static/js/2.1c4f019d.chunk.js",
+    "static/css/main.366daf9f.chunk.css",
+    "static/js/main.93de6717.chunk.js"
+  ]
+}
